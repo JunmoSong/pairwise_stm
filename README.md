@@ -82,7 +82,7 @@ install.packages(c("tidyverse", "readxl", "stm", "topicmodels",
 
 ## Citation
 
-If you use this code or data in your research, please cite:
+If you use this code and data in your research, please cite:
 
 > Kang, Jeong-han, Eunrang Kwon, and Junmo Song. "Discovering Preference Structure using Randomized Paired Comparisons in Surveys: A Topic Modeling Approach." *Sociological Methods & Research*. [DOI to be added upon publication]
 
@@ -106,3 +106,32 @@ For questions about the data, code, or paper, please contact:
 **Junmo Song**
 Postdoctoral Researcher, Department of Political Science, Ewha Womans University
 📧 socsci.jm@gamil.com
+
+---
+
+## License
+
+This repository uses a dual license structure:
+
+**Code** (all `.R` scripts): [MIT License](LICENSE-CODE)
+Free to use, modify, and distribute with attribution.
+
+**Data** (`data/social_problem.xlsx`): [CC BY 4.0](LICENSE-DATA)
+Free to use for any purpose with proper attribution to both the authors
+and the original data source (see below).
+
+### Data Attribution
+
+The survey data (`social_problem.xlsx`) were collected by the research team
+as part of a commissioned research project funded by the
+**Center for Social Value Enhancement Studies (CSES, SK 사회적가치연구원 https://www.cses.re.kr/)**.
+Public release of the data has been authorized by CSES.
+
+When using the data, please cite both the paper and the data source:
+
+> Kang, Jeong-han, Eunrang Kwon, and Junmo Song. 2026.
+> "JunmoSong/pairwise_stm: v1.0.0 – Initial release for SMR replication."
+> Zenodo. https://doi.org/10.5281/zenodo.19814110
+>
+> Data source: Center for Social Value Enhancement Studies (CSES),
+> SK 사회적가치연구원. Social Value Survey (2020).
