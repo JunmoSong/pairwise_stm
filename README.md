@@ -133,5 +133,4 @@ When using the data, please cite both the paper and the data source:
 > "JunmoSong/pairwise_stm: v1.0.0 – Initial release for SMR replication."
 > Zenodo. https://doi.org/10.5281/zenodo.19814110
 >
-> Data source: Center for Social Value Enhancement Studies (CSES),
-> SK 사회적가치연구원. Social Value Survey (2020).
+> Data source: Center for Social Value Enhancement Studies (CSES), Social Value Survey (2020).
